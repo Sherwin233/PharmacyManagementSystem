@@ -7,8 +7,8 @@
 </ul>
 <br/>
 <p align="center"><img src="https://github.com/Sherwin233/PharmacyManagementSystem/blob/main/Capture.PNG" alt="sherwin233"/></p>
-<p align="center"><img src="https://github.com/Sherwin233/PharmacyManagementSystem/blob/main/Capture.PNG" alt="sherwin233"/></p>
-<p align="center"><img src="https://github.com/Sherwin233/PharmacyManagementSystem/blob/main/Capture.PNG" alt="sherwin233"/></p>
+<p align="center"><img src="https://github.com/Sherwin233/PharmacyManagementSystem/blob/main/Capture1.PNG" alt="sherwin233"/></p>
+<p align="center"><img src="https://github.com/Sherwin233/PharmacyManagementSystem/blob/main/Capture2.PNG" alt="sherwin233"/></p>
 <h2>FEATURES</h2>
 <ul>
   <li>Add Employee</li>
