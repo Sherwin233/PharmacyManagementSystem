@@ -1,2 +1,5 @@
 <h1>PHARMACY MANAGEMENT SYSTEM USING JAVA CONSOLE</h1>
 <p>FEATURES</p>
+<ul>
+  <li>Update</li>
+</ul>
