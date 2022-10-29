@@ -1,5 +1,5 @@
 <h1 align="center">PHARMACY MANAGEMENT SYSTEM USING JAVA CONSOLE</h1>
-<h2>Group Members</h2>
+<h2>Group Members:</h2>
 <ul>
   <li>Sherwin S. Selma - Leader</li>
   <li>Alexis J. Alexo - Member</li>
