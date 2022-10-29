@@ -18,7 +18,7 @@
   <li>Remove Medicine Details</li>
 </ul>
 <br/>
-<h2 aling="center">PROJECT - Pharmacy Management System Introduction</h2>
+<h2 align="center">PROJECT - Pharmacy Management System Introduction</h2>
 <p>Pharmacy management system is a medical store system developed in NetBeans/Java Eclipse using java programming language. Pharmacy management system offers you the control over your pharmacy shop in the manner that what you can add or remove from the pharma store. This is a simple project that has three modules like:</p>
 <br/>
 <ul>
