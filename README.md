@@ -6,6 +6,7 @@
   <li>Ivan Jay O. Daigdigan</li>
 </ul>
 <br/>
+<p align="center"><img src="3eb46242aad791aefa762d89a01f631aa5c09f1c73c3bae55df33bcaaa769c33caeea5adbc48"
 <h2>FEATURES</h2>
 <ul>
   <li>Add Employee</li>
