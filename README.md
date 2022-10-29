@@ -29,7 +29,7 @@
 <br/>
 <p>Pharmacy management system allows you to control your pharmacy shop with ease. This project has simple looking Console and is very easy to use. Download this project and add any department you want to.</p>
 <br/>
-<h3 align="center">SCREENSHOTS</h3>
+<h2 align="center">SCREENSHOTS</h2>
 <p align="center"><img src="https://github.com/Sherwin233/PharmacyManagementSystem/blob/main/Capture.PNG" alt="sherwin233"/></p>
 <p align="center"><img src="https://github.com/Sherwin233/PharmacyManagementSystem/blob/main/Capture1.PNG" alt="sherwin233"/></p>
 <p align="center"><img src="https://github.com/Sherwin233/PharmacyManagementSystem/blob/main/Capture2.PNG" alt="sherwin233"/></p>
