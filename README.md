@@ -18,4 +18,4 @@
   <li>Pharma, where you can add the number of pharma stores you want to.</li>
   <li>Store admin, where you can different sort of drugs.</li>
 </ul>
-<p>Pharmacy management system allows you to control your pharmacy shop with ease. This project has simple looking GUI and is very easy to use. Download this project and add any department you want to.</p>
+<p>Pharmacy management system allows you to control your pharmacy shop with ease. This project has simple looking Console and is very easy to use. Download this project and add any department you want to.</p>
