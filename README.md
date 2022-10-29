@@ -1,10 +1,11 @@
 <h1 align="center">PHARMACY MANAGEMENT SYSTEM USING JAVA CONSOLE</h1>
-<h4 align="center">Group Members</h4>
+<h4>Group Members</h4>
 <ul>
   <li>Sherwin S. Selma - Leader</li>
   <li>Alexis J. Alexo - Member</li>
   <li>Ivan Jay O. Daigdigan</li>
 </ul>
+<br/>
 <p>FEATURES</p>
 <ul>
   <li>Add Employee</li>
