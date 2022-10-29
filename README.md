@@ -6,9 +6,11 @@
   <li>Ivan Jay O. Daigdigan</li>
 </ul>
 <br/>
-<p align="right"><img src="https://github.com/Sherwin233/PharmacyManagementSystem/blob/main/Capture.PNG" alt="sherwin233"/></p>
+<h3>SCREENSHOTS</h3>
+<p align="center"><img src="https://github.com/Sherwin233/PharmacyManagementSystem/blob/main/Capture.PNG" alt="sherwin233"/></p>
 <p align="center"><img src="https://github.com/Sherwin233/PharmacyManagementSystem/blob/main/Capture1.PNG" alt="sherwin233"/></p>
-<p align="left"><img src="https://github.com/Sherwin233/PharmacyManagementSystem/blob/main/Capture2.PNG" alt="sherwin233"/></p>
+<p align="center"><img src="https://github.com/Sherwin233/PharmacyManagementSystem/blob/main/Capture2.PNG" alt="sherwin233"/></p>
+<br/>
 <h2>FEATURES</h2>
 <ul>
   <li>Add Employee</li>
