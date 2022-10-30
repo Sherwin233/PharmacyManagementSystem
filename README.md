@@ -3,7 +3,7 @@
 <h3>Group Members:</h3>
 <ul>
   <li>Sherwin S. Selma - Leader</li>
-  <li>Alexis J. Alexo - Member</li>
+  <li>Alexis A. Alexo - Member</li>
   <li>Ivan Jay O. Daigdigan - Member</li>
 </ul>
 <h2 align="center">FEATURES</h2>
