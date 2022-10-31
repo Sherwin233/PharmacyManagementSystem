@@ -6,7 +6,6 @@
   <li>Alexis A. Alexo - Member</li>
   <li>Ivan Jay O. Daigdigan - Member</li>
 </ul>
-<p align="right">ALign</p>
 <h2 align="center">FEATURES</h2>
 <ul>
   <li>Add Employee</li>
