@@ -7,10 +7,7 @@
   <li>Ivan Jay O. Daigdigan - Member</li>
 </ul>
 <h2 align="center">FEATURES</h2>
-<ul align="right">
-  <li>Add Employee</li>
-  <li>Add Employee</li>
-</ul>
+<p align="right">ALign</p>
 <ul>
   <li>Add Employee</li>
   <li>Add Medicine</li>
